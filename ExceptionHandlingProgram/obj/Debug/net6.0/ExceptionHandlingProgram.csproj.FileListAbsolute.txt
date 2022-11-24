@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ExceptionHandlingProgram\ExceptionHandlingProgram\bin\Debug\net6.0\ExceptionHandlingProgram.exe
+C:\Users\HP\source\repos\ExceptionHandlingProgram\ExceptionHandlingProgram\bin\Debug\net6.0\ExceptionHandlingProgram.deps.json
+C:\Users\HP\source\repos\ExceptionHandlingProgram\ExceptionHandlingProgram\bin\Debug\net6.0\ExceptionHandlingProgram.runtimeconfig.json
+C:\Users\HP\source\repos\ExceptionHandlingProgram\ExceptionHandlingProgram\bin\Debug\net6.0\ExceptionHandlingProgram.dll
+C:\Users\HP\source\repos\ExceptionHandlingProgram\ExceptionHandlingProgram\bin\Debug\net6.0\ExceptionHandlingProgram.pdb
+C:\Users\HP\source\repos\ExceptionHandlingProgram\ExceptionHandlingProgram\obj\Debug\net6.0\ExceptionHandlingProgram.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ExceptionHandlingProgram\ExceptionHandlingProgram\obj\Debug\net6.0\ExceptionHandlingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ExceptionHandlingProgram\ExceptionHandlingProgram\obj\Debug\net6.0\ExceptionHandlingProgram.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ExceptionHandlingProgram\ExceptionHandlingProgram\obj\Debug\net6.0\ExceptionHandlingProgram.AssemblyInfo.cs
+C:\Users\HP\source\repos\ExceptionHandlingProgram\ExceptionHandlingProgram\obj\Debug\net6.0\ExceptionHandlingProgram.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ExceptionHandlingProgram\ExceptionHandlingProgram\obj\Debug\net6.0\ExceptionHandlingProgram.dll
+C:\Users\HP\source\repos\ExceptionHandlingProgram\ExceptionHandlingProgram\obj\Debug\net6.0\refint\ExceptionHandlingProgram.dll
+C:\Users\HP\source\repos\ExceptionHandlingProgram\ExceptionHandlingProgram\obj\Debug\net6.0\ExceptionHandlingProgram.pdb
+C:\Users\HP\source\repos\ExceptionHandlingProgram\ExceptionHandlingProgram\obj\Debug\net6.0\ExceptionHandlingProgram.genruntimeconfig.cache
+C:\Users\HP\source\repos\ExceptionHandlingProgram\ExceptionHandlingProgram\obj\Debug\net6.0\ref\ExceptionHandlingProgram.dll
